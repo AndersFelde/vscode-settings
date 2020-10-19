@@ -153,5 +153,28 @@
     "remote.SSH.remotePlatform": {
         "servster": "linux"
     },
-    "kite.showWelcomeNotificationOnStartup": false
+    "kite.showWelcomeNotificationOnStartup": false,
+    "keyboard.dispatch": "keyCode",
+  // vim-config
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors.normal": [
+    "#1C1E26",
+    "#434C5E"
+    ],
+    "vim.statusBarColors.insert": "#B877DB",
+    "vim.statusBarColors.visual": "#E95678",
+    "vim.statusBarColors.visualline": "#E95678",
+    "vim.statusBarColors.visualblock": "E95678",
+    "vim.statusBarColors.replace": "#D08770",
+    "vim.statusBarColors.commandlineinprogress": "#25B0BC",
+    "vim.statusBarColors.searchinprogressmode": "#25B0BC",
+    "vim.statusBarColors.easymotionmode": "#25B0BC",
+    "vim.statusBarColors.easymotioninputmode": "#25B0BC",
+    "vim.statusBarColors.surroundinputmode": "#25B0BC",
+    "workbench.colorCustomizations": {
+    "statusBar.background": "#E95678",
+    "statusBar.noFolderBackground": "#E95678",
+    "statusBar.debuggingBackground": "#E95678",
+    "statusBar.foreground": "#434C5E"
+    },
 }
